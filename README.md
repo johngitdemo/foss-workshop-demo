@@ -1,2 +1,2 @@
 # foss-workshop-demo
-It's a Demo repositori
+It's a not Demo repositori
